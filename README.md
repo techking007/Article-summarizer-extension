@@ -8,7 +8,7 @@ SwiftSummarizer is a lightweight Chrome extension that instantly summarizes any 
 
 ### 1. Download the Extension
 
-- [Click here to download SwiftSummarizer](Website_name_hosting_soon)  
+- [Click here to download SwiftSummarizer(https://swiftsummarizer.vercel.app/)  
  
 ---
 
